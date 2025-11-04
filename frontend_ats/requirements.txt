@@ -1,0 +1,8 @@
+psycopg2-binary==2.9.9
+bcrypt==4.2.0
+python-dotenv==1.0.0
+uuid==1.30
+sqlalchemy
+PyJWT==2.8.0
+Flask
+Flask-Cors
